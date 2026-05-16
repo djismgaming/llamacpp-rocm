@@ -1,4 +1,4 @@
-name: Build Llama.cpp + ROCm
+name: Build Llama.cpp + ROCm for gfx103X
 on:
   workflow_dispatch:
     inputs:
